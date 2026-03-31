@@ -1,4 +1,4 @@
-# Bright-Coffee-shop-Sales  
+# Bright Coffee Shop Analysis 
 # Background 
 Brightcoffee  has recently appointed a new CEO whose mission is to grow the company’s revenue and improve product performance. The Business Intelligence team was provided with a dataset titled “Bright Coffee Shop Sales”, which captures daily transactional information from a coffee shop. The team was tasked to extract actionable insights from
 historical data and prepare a presentation to assist the CEO in decision-making.
