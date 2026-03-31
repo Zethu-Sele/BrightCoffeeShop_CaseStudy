@@ -10,7 +10,7 @@ Below are tools used to complete the project:
 2. Project Planning - MIRO & Canva  
 3. Data Processing - Databricks  
 4. Data Analysis - Microsoft Excel  
-5. Data Presentation - Canva  
+5. Data Presentation - Canva & Microsoft PowerPoint. 
 6. Results were presented to management on 31 March 2026
 
 # Summary 
